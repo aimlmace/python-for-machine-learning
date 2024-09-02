@@ -135,7 +135,6 @@ test_data_m = pd.read_csv("PlayTennis.csv")
 
 accuracy = evaluate(tree, test_data_m, 'Play Tennis') 
 
-
 print(tree)
 print(accuracy)
 
