@@ -99,7 +99,6 @@ class ID3:
         """Plot the decision tree using matplotlib with more spacing."""
         if pos is None:
             pos = {}
-       
         if not isinstance(tree, tuple):
             ax.text(x, y, f'Leaf: {self.class_names[tree]}', bbox=dict(facecolor='lightgreen', edgecolor='black', boxstyle='round,pad=0.5'),
                     ha='center', va='center', fontsize=8)
