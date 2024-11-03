@@ -1,2 +1,3 @@
 AML-331 PYTHON AND MACHINE LEARNING LAB
 S5AIML
+[Syllabus](Syllabus.pdf)
